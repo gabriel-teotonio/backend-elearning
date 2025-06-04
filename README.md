@@ -55,12 +55,20 @@ Cada erro foi uma oportunidade de aprendizado, e hoje me sinto muito mais prepar
 
 ## 📷 Galeria de Imagens e Diagramas
 
-> ⚠️ Imagens do sistema, fluxogramas de arquitetura e exemplos de queries utilizadas serão adicionados abaixo (adicione seus prints aqui):
+- ✅ Interfaces principais do sistema (login, dashboard, painel do professor) (imagens autorizadas)
 
-- ✅ Interfaces principais do sistema (login, dashboard, painel do professor)
-- ✅ Diagrama ER do banco (gerado a partir das entidades TypeORM)
-- ✅ Diagrama de arquitetura (API, banco, frontend, cloud)
-- ✅ Exemplos de queries SQL otimizadas utilizadas em relatórios
+### 🎓 Painel do Professor
+![Página inicial](./assets/home.png)
+
+### 📊 Dashboard Principal
+![Dashboard](./assets/dash.png)
+
+### 📊 Detalhes do Curso
+![Curso](./assets/curso.png)
+
+### 📊 Detalhes da aula
+![aula](./assets/aula.png)
+
 
 ---
 
