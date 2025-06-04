@@ -64,20 +64,6 @@ Cada erro foi uma oportunidade de aprendizado, e hoje me sinto muito mais prepar
 
 ---
 
-## 🚀 Como Rodar Localmente
-
-> (Adicione instruções reais se for tornar o repositório público, caso contrário, pode omitir)
-
----
-
-## 📄 Licença
-
-Este projeto é privado. Todos os direitos reservados ao autor.
-
----
-
 ## 🤝 Contato
-
-Desenvolvido por **Gabriel Silva**  
-📧 [seu.email@exemplo.com]  
-🔗 [linkedin.com/in/gabrielsilva](https://linkedin.com/in/gabrielsilva)  
+📧 gabriel23teotonio@gmail.com
+🔗 [linkedin.com/in/gabriel-teotonio](https://linkedin.com/in/gabriel-teotonio)  
